@@ -20,7 +20,9 @@
   <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Blender-000?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
 </p>
+
 
 ---
 
