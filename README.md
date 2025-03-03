@@ -28,9 +28,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=github_dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gorney-Alex&show_icons=true&theme=github_dark" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=github_dark" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gorney-Alex&theme=github_dark" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=github_dark" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gorney-Alex&layout=compact&theme=github_dark" alt="Most Used Languages">
 </p>
