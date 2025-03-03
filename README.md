@@ -20,21 +20,6 @@
   <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <br>
-  <img src="https://img.shields.io/badge/-.NET-000?&logo=dotnet" alt=".NET">
-  <img src="https://img.shields.io/badge/-ASP.NET-000?&logo=dotnet" alt="ASP.NET">
-  <img src="https://img.shields.io/badge/-SQLite-000?&logo=Sqlite" alt="SQLite">
-  <img src="https://img.shields.io/badge/-MySQL-000?&logo=mysql" alt="MySQL">
-  <img src="https://img.shields.io/badge/-MariaDB-000?&logo=mariadb" alt="MariaDB">
-  <img src="https://img.shields.io/badge/-Apache%20Kafka-000?&logo=apachekafka" alt="Apache Kafka">
-</p>
-
----
-
-### ⚙️ Other
-<p align="center">
-  <img src="https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker" alt="Docker">
-  <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux" alt="Linux">
 </p>
 
 ---
