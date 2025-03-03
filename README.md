@@ -15,11 +15,6 @@
 
 ---
 
-### Side Projects
-[![](https://img.shields.io/badge/-TBA-000?&logo=framework)](https://github.com/YourGitHubUsername)
-
----
-
 ### 🖥️ Languages & Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
