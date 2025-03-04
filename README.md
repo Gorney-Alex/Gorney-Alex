@@ -11,6 +11,9 @@
   <a href="https://vk.com/gorneycop">
     <img src="https://img.shields.io/badge/VK-000?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
   </a>
+    <a href="[https://vk.com/gorneycop](https://discordapp.com/users/446021527331274753)">
+    <img src="https://img.shields.io/badge/-Discord-000?&logo=Discord&logoColor=white" alt="Discord">
+  </a>
 </p>
 
 ---
